@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
